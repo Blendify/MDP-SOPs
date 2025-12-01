@@ -1,0 +1,1 @@
+.. include:: /operations/warehouse/warehouse_safety.rst
