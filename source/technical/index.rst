@@ -89,8 +89,8 @@ Linked Technical Departments
 .. toctree::
    :maxdepth: 1
 
-   lighting
-   audio
-   video
-   rigging
-   power
+   lighting/index
+   audio/index
+   video/index
+   rigging/index
+   power/index

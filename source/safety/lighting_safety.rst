@@ -1,0 +1,1 @@
+.. include:: /technical/lighting/lighting_safety.rst

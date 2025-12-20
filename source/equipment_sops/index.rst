@@ -194,13 +194,13 @@ Each equipment category will include individual SOPs with:
 This ensures every SOP is consistent and easy to reference.
 
 
-.. Linked Equipment SOPs
-.. =====================
+Linked Equipment SOPs
+=====================
 
-.. .. toctree::
-..    :maxdepth: 1
+.. toctree::
+   :maxdepth: 1
 
-..    lighting_equipment/index
+   lighting_equipment/index
 ..    audio_equipment/index
 ..    video_equipment/index
 ..    rigging_equipment/index

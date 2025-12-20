@@ -158,13 +158,15 @@ Common Lighting Documents & Files
 Linked Lighting SOPs
 ====================
 
-.. .. toctree::
-..    :maxdepth: 1
+.. toctree::
+   :maxdepth: 1
 
-..    lighting_prep
-..    lighting_networks
-..    lighting_console
-..    lighting_focus
-..    lighting_safety
-..    lighting_troubleshooting
+   lighting_prep
+   lighting_networks
+   lighting_addressing
+   lighting_power.rst
+   lighting_console
+   lighting_focus
+   lighting_safety
+   lighting_troubleshooting
 

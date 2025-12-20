@@ -187,16 +187,3 @@ Failure to follow this SOP may result in:
 - Internal disciplinary action for repeated failures
 
 All staff must follow this SOP without exception.
-
-Revision History
-================
-
-.. list-table::
-   :header-rows: 1
-
-   * - Date
-     - Author
-     - Summary
-   * - 2025-01-XX
-     - Aaron Carlisle
-     - Initial creation

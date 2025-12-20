@@ -170,18 +170,18 @@ Every administrative workflow should follow these principles:
 - **Consistency** – Procedures must be followed uniformly across teams.
 
 
-.. Linked Administrative SOPs
-.. ==========================
+Linked Administrative SOPs
+==========================
 
-.. .. toctree::
-..    :maxdepth: 1
+.. toctree::
+   :maxdepth: 1
 
-..    billing_invoicing
-..    payroll
-..    document_management
-..    vendor_subrental
-..    hr_compliance
-..    scheduling
-..    insurance_legal
-..    internal_communication
+   billing_invoicing
+   payroll
+   document_management
+   vendor_subrental
+   hr_compliance
+   scheduling
+   insurance_legal
+   internal_communication
 
