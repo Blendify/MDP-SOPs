@@ -46,7 +46,6 @@ SOP Sections
 
 .. toctree::
    :maxdepth: 2
-   :caption: SOP Sections
 
    operations/index
    technical/index
