@@ -185,6 +185,7 @@ Linked Lighting Equipment SOPs
    lighting_consoles
    lighting_cases_storage
    lighting_reset_maintenance
+   gotcha
 
 
 Related Documentation
