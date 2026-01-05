@@ -201,9 +201,9 @@ Linked Equipment SOPs
    :maxdepth: 1
 
    lighting_equipment/index
-..    audio_equipment/index
-..    video_equipment/index
-..    rigging_equipment/index
-..    power_equipment/index
-..    staging_equipment/index
-..    storage_equipment/index
+   audio_equipment/index
+   video_equipment/index
+   rigging_equipment/index
+   power_equipment/index
+   staging_equipment/index
+   storage_equipment/index
