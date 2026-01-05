@@ -1,0 +1,1 @@
+.. include:: /equipment_sops/power_equipment/power_safety_inspection.rst

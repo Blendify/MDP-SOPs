@@ -148,8 +148,8 @@ Linked Power Equipment SOPs
 .. toctree::
    :maxdepth: 1
 
-..    power_feeder_camlock
-..    power_distros
-..    power_cabling
-..    power_load_calculations
-..    power_safety_inspection
+   power_feeder_camlock
+   power_distros
+   power_cabling
+   power_load_calculations
+   power_safety_inspection
