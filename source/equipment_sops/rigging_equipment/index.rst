@@ -149,8 +149,8 @@ Linked Rigging Equipment SOPs
 .. toctree::
    :maxdepth: 1
 
-..    rigging_chain_motors
-..    rigging_truss
-..    rigging_hardware
-..    rigging_inspection
-..    rigging_ground_support
+   rigging_chain_motors
+   rigging_truss
+   rigging_hardware
+   rigging_inspection
+   rigging_ground_support
