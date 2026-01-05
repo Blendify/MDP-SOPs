@@ -206,4 +206,5 @@ Linked Equipment SOPs
    rigging_equipment/index
    power_equipment/index
    staging_equipment/index
+   soft_goods_equipment/index
    storage_equipment/index
